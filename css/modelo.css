@@ -1,0 +1,56 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&family=Lobster&family=Qwitcher+Grypen:wght@400;700&display=swap');
+
+h1{
+    font-family: "Lobster", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+img{
+   height: 25px; /*autura*/
+   width: 25x; /*largura*/
+}
+
+.medalhas{
+    height: 40px; /*autura*/
+    width: 50x; /*largura*/
+}
+
+td{
+    text-align: center;
+}
+ 
+ .pais{
+    text-align: left;
+ }
+
+ td{
+    width: 30xp;
+ }
+
+ td:nth-child(1){
+    width: 15xp;
+ }
+
+ td:nth-child(1){
+    text-align: left;
+    width: 300xp;
+ }
+
+ img:hover{
+    transform: scale(2);
+ }
+
+ .linha1{
+    transform: color azul;
+ }
+
+ tr:hover {
+    background-color: rgb(75, 197, 189);
+  }
+
+  h1{
+     color:aquamarine
+  }
